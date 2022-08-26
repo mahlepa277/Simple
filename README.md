@@ -6,7 +6,7 @@
  $ pip install requests
  $ pip install bs4
  $ pip install rich
- $ git clone https://github.com/RENVVV/Simple
+ $ git clone https://github.com/mahlepa277/Simple
  ```
  oke sekarang script sudah terinstall
 #### CARA MENJALANKAN SCRIPT:
